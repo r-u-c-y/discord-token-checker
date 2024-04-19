@@ -20,7 +20,7 @@ function CheckTokens() {
                             <img src="./Default.png" alt="User Avatar">
                         </div>
                         <div class="box">
-                            <span>XXXXX#0000</span>
+                            <span>username#0000</span>
                             <p>${token}</p>
                         </div>
                     </div>`
@@ -101,7 +101,7 @@ function CheckTokens() {
                         <img src="./Default.png" alt="User Avatar">
                     </div>
                     <div class="box">
-                        <span>XXXXX#0000</span>
+                        <span>username#0000</span>
                         <p>${token}</p>
                     </div>
                 </div>`
